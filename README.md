@@ -32,17 +32,15 @@ In-TeX/LaTeX 是基于 LaTeX 排版系统、面向 InDesign 提供公式排版�
 
 ### Mac 用户：
 
-推荐安装 MacTeX 2018 即可，最新的 ctex 宏包有所更新，增加了对 OSX 新版系统中文字库的自动识别支持。
+推荐安装 MacTeX 2018（最新的 ctex 宏包有所更新，增加了对 OSX 新版系统中文字库的自动识别支持） 即可，或者更新版本 MacTeX。
 
 ## 二、In-TeX/LaTeX 脚本安装
 
-解压缩后把 InTeXLaTeX 文件夹直接拷贝至你系统上的
+Windows 和 Mac 通用的安装方法推荐这样操作：
 
- InDesign程序安装路径\Scripts\Scripts Panel\ 
+解压缩后把 InTeXLaTeX 文件夹（如文件夹名是类似 InTeXLaTeX_3.14_V20200920 这样带有的版本号，最好请先修改文件夹名为 InTeXLaTeX），在你的 InDesign 打开的情况下，菜单选择，「窗口」 --> 「实用程序」 --> 「脚本」， 在「脚本」面板中选择「用户」，然后右键，选择「在访达中打开」(Mac) /「在资源管理器中显示」(Windows)，在弹出的文件夹下有个「Scripts Panel」文件夹，把这个「 InTeXLaTeX」文件夹放入「Scripts Panel」中，在「脚本」面板里依次打开「用户」－ 「InTeXLaTeX」，找到 InTeXLaTeX 脚本文件双击即运行，按提示配置 LaTeX 引擎后即可玩转 LaTeX 公式。
 
-（例如使用 IDCS6，则  PC 下可能是 C:\Program Files (x86)\Adobe\Adobe InDesign CS6\Scripts\Scripts Panel\，Mac 下是 /Applications/Adobe InDesign CS6/Scripts/Scripts Panel/ ）
-
-下即可，然后启动你的 InDesign 在窗口－实用程序 找到 脚本面板打开，在面板里依次打开 应用程序－InTeXLaTeX，找到 InTeXLaTeX.jsx 文件双击即运行，按提示配置 LaTeX 引擎后即可玩转 LaTeX 公式。
+以上安装方法避免了安装在其它某些文件夹下可能需要管理员权限运行 InDesign 才能使用公式脚本的问题。
 
 免费用户：自动生成免费版本的授权文件，不能使用需要付费的功能。
 
@@ -56,7 +54,7 @@ In-TeX/LaTeX 是基于 LaTeX 排版系统、面向 InDesign 提供公式排版�
 
 ### 论坛及网站等
 
-http://bbs.ctex.org/forum.php  中文TeX社区
+~~http://bbs.ctex.org/forum.php  中文TeX社区~~
 
 http://www.latexstudio.net LaTeX工作室
 
@@ -68,7 +66,7 @@ https://weibo.com/cooldtp @广之源Skin 新浪微博(关于本解决方案及 I
 
 InTeXLaTeX 官方技术支持 QQ 群： 广之源 InDesign 1群 10569122
 
-LaTeX技术交流5000人QQ群（91940767）(需付费入群，有很多 LaTeX 技术高手可交流)
+LaTeX技术交流5000人QQ群（91940767）(~~需付费入群，~~有很多 LaTeX 技术高手可交流)
 
 ### LaTeX 中文资料相关
 
@@ -88,17 +86,17 @@ https://pan.baidu.com/s/1ZC7Ivg1cI64-Jl6FhP-irA
 
 密码：ks13
 
-TeXLive 2016 ISO 绿色免安装版本 for windows 介绍：
+~~TeXLive 2016 ISO 绿色免安装版本 for windows 介绍：~~
 
-http://bbs.ctex.org/forum.php?mod=viewthread&tid=152717
+~~http://bbs.ctex.org/forum.php?mod=viewthread&tid=152717~~
 
 TeXLive 2016 ISO 绿色免安装版本 for windows 百度网盘下载(请选择 /TeX 文件夹下的 TeXLIve2016.iso.xz 下载，相关信息参照 TeXLive2016.txt 文件的说明)：
 
 https://pan.baidu.com/s/1brg3hj5
 
-#### 3、W32TeX 下载
+#### ~~3、W32TeX 下载~~
 
-http://w32tex.org/index-zh.html
+~~http://w32tex.org/index-zh.html~~
 
 #### 4、ApTeX (Asiatic pTeX／ptex-ng) 项目
 
@@ -112,17 +110,23 @@ ActivePerl (安装时请注意有勾选的选项，不推荐安装附带的编�
 
 Ghostscript：https://www.ghostscript.com/download/gsdnld.html
 
+#### 6、In-TeX/LaTeX 网盘下载
+
+In-TeX/LaTeX 最新版本除了在技术支持 QQ 群10569122 共享里可下载，还可以在以下网盘链接下载(包括样本、操作演示视频等)：
+
+链接: https://pan.baidu.com/s/1NGO3z5D-wWgjkpAVnLCatQ?pwd=2kqm 提取码: 2kqm
+
+或 Github：https://github.com/cooldtp/InTeXLaTeX
+
 最后特别推荐一款可抓屏 OCR 公式图片为 LaTeX 公式代码的免费工具——Mathpix，Mac 及 Win 版本均有，让你录入公式事半功倍：
 
  https://www.mathpix.com/
 
-#### 6、在 CTEX 论坛发布的链接（用于更新）
-
-http://bbs.ctex.org/forum.php?mod=viewthread&tid=155312
-
 
 
 PUB@2018年9月1日 By Skin 于南宁
+
+upDate: 2023-06-27
 
 新浪微博：@广之源Skin
 
