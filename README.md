@@ -8,7 +8,7 @@ In-TeX/LaTeX 是基于 LaTeX 排版系统、面向 InDesign 提供公式排版�
 
 4. 拓展性：本解决方案不仅适用于数理化公式排版，LaTeX 有着丰富的宏包资源，发挥你的想象，在 InDesign 里直接把 LaTeX 代码转换为 PDF 输出结果插入，各种数据图表、作图等就呈现在你的 InDesign 版面中。
 
-5. 版本限制：本解决方案主要是采用 JavaScript 语言开发，界面完全依赖 Adobe ExtendScript ScriptUI，在不同系统平台、不同 InDesign 版本上会有些小差异，甚至带来操作表现差异上的困惑，所以特别限定了至少 InDesign CS6 环境来运行。
+5. 版本限制：本解决方案主要是采用 JavaScript 语言开发，界面完全依赖 Adobe ExtendScript ScriptUI，在不同系统平台、不同 InDesign 版本上会有些小差异，甚至带来操作表现差异上的困惑，所以特别限定了在 InDesign CS6 或更高版本环境来运行。
 
 
 和别人的公式排版解决方案有什么不同：
